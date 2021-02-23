@@ -1,0 +1,22 @@
+E:\Curso\Projeto Bloqueio De Letras\bin\Debug\Projeto Bloqueio De Letras.exe.config
+E:\Curso\Projeto Bloqueio De Letras\bin\Debug\Projeto Bloqueio De Letras.exe
+E:\Curso\Projeto Bloqueio De Letras\bin\Debug\Projeto Bloqueio De Letras.pdb
+E:\Curso\Projeto Bloqueio De Letras\obj\Debug\Projeto Bloqueio De Letras.csprojAssemblyReference.cache
+E:\Curso\Projeto Bloqueio De Letras\obj\Debug\Projeto_Bloqueio_De_Letras.Frmbloqueio.resources
+E:\Curso\Projeto Bloqueio De Letras\obj\Debug\Projeto_Bloqueio_De_Letras.Properties.Resources.resources
+E:\Curso\Projeto Bloqueio De Letras\obj\Debug\Projeto Bloqueio De Letras.csproj.GenerateResource.cache
+E:\Curso\Projeto Bloqueio De Letras\obj\Debug\Projeto Bloqueio De Letras.csproj.CoreCompileInputs.cache
+E:\Curso\Projeto Bloqueio De Letras\obj\Debug\Projeto Bloqueio De Letras.exe
+E:\Curso\Projeto Bloqueio De Letras\obj\Debug\Projeto Bloqueio De Letras.pdb
+E:\Curso\Projeto Bloqueio De Letras\obj\Debug\Projeto_Bloqueio_De_Letras.FrmLogin.resources
+E:\Curso\Projeto Bloqueio De Letras\obj\Debug\Projeto_Bloqueio_De_Letras.Frmtela3.resources
+F:\C# 2020 - Obra social dom Bosco\Projeto Bloqueio De Letras\obj\Debug\Projeto Bloqueio De Letras.csprojAssemblyReference.cache
+F:\C# 2020 - Obra social dom Bosco\Projeto Bloqueio De Letras\obj\Debug\Projeto_Bloqueio_De_Letras.Frmbloqueio.resources
+F:\C# 2020 - Obra social dom Bosco\Projeto Bloqueio De Letras\obj\Debug\Projeto_Bloqueio_De_Letras.Properties.Resources.resources
+F:\C# 2020 - Obra social dom Bosco\Projeto Bloqueio De Letras\obj\Debug\Projeto Bloqueio De Letras.csproj.GenerateResource.cache
+F:\C# 2020 - Obra social dom Bosco\Projeto Bloqueio De Letras\obj\Debug\Projeto Bloqueio De Letras.csproj.CoreCompileInputs.cache
+F:\C# 2020 - Obra social dom Bosco\Projeto Bloqueio De Letras\obj\Debug\Projeto Bloqueio De Letras.exe
+F:\C# 2020 - Obra social dom Bosco\Projeto Bloqueio De Letras\obj\Debug\Projeto Bloqueio De Letras.pdb
+F:\C# 2020 - Obra social dom Bosco\Projeto Bloqueio De Letras\bin\Debug\Projeto Bloqueio De Letras.exe.config
+F:\C# 2020 - Obra social dom Bosco\Projeto Bloqueio De Letras\bin\Debug\Projeto Bloqueio De Letras.exe
+F:\C# 2020 - Obra social dom Bosco\Projeto Bloqueio De Letras\bin\Debug\Projeto Bloqueio De Letras.pdb
